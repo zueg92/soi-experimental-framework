@@ -1,8 +1,3 @@
-An Investment Operating System (SOI) is presented, currently in an experimental phase, designed not as a strategy to beat the market but as a decision-making framework for managing investments under conditions of uncertainty.
-
-SOI is not a model portfolio and does not provide trading signals.
-Its goal is to separate context, assets, and decisions, reducing impulsive reactions and making the decision process more transparent and traceable.
-
 🔧 SOI Structure
 
 1️⃣ Compass (Macro Context)
@@ -43,6 +38,32 @@ Anyone interested in testing the model or stress-testing its logic is welcome.
 The objective is to understand whether SOI holds up outside the context in which it originated.
 
 This is not financial advice and not a commercial proposal.
+
+A) “Start here” (link al Kernel)
+
+Link a SOI_v1.1.md
+
+B) Mappa dei moduli (TOC con link)
+
+Esempio (copiabile):
+
+Kernel (SOI v1.1) → SOI_v1.1.md
+
+Compass (context) → SOI-COMPASS_v1.0.md
+
+STS (single-title analysis) → SOI-STS_v1.0.md
+
+STS-OS (integration layer) → SOI-STS-OS_v1.0.md
+
+PM (portfolio risk) → SOI-PM_v1.0.md
+
+RL (research integrity) → SOI-RL_v1.0.md (e “Patch v1.1” se quello è il contenuto)
+
+An Investment Operating System (SOI) is presented, currently in an experimental phase, designed not as a strategy to beat the market but as a decision-making framework for managing investments under conditions of uncertainty.
+
+SOI is not a model portfolio and does not provide trading signals.
+Its goal is to separate context, assets, and decisions, reducing impulsive reactions and making the decision process more transparent and traceable.
+
 ITALIANO 
 
 Viene presentato un Sistema Operativo di Investimento (SOI) attualmente in fase di sperimentazione, pensato non come strategia per battere il mercato ma come struttura decisionale per gestire investimenti in condizioni di incertezza.
