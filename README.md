@@ -1,3 +1,12 @@
+## Whitepaper (How it works)
+
+- 🇬🇧 English: [SOI Whitepaper EN](SOI_Eng.pdf)
+- 🇮🇹 Italiano: [SOI Whitepaper IT](SOI_Ita.pdf)
+
+This whitepaper explains the SOI architecture, operational flow,
+and how the framework is used in practice, including LLM-assisted usage.
+
+
 🔧 SOI Structure
 
 1️⃣ Compass (Macro Context)
