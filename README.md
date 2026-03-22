@@ -2,7 +2,8 @@
 
 - 🇬🇧 English: [SOI Whitepaper EN](SOI_Eng.pdf)
 - 🇮🇹 Italiano: [SOI Whitepaper IT](SOI_Ita.pdf)
-
+- Patch 🇮🇹 [SOI Patch IT](SOI PATCH v1.1_Ita.pdf)
+- 
 This whitepaper explains the SOI architecture, operational flow,
 and how the framework is used in practice, including LLM-assisted usage.
 
